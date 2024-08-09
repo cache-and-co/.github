@@ -1,7 +1,5 @@
 # Welcome to Cache & Co. 🚀
 
-![Cache & Co. Banner](https://avatars.githubusercontent.com/u/177966736?s=200&v=4)
-
 ## Optimizing the Digital World, One Cache at a Time
 
 At Cache & Co., we're passionate about creating tools that enhance digital experiences through intelligent caching and optimization. Our mission is to make the web faster, more efficient, and more accessible for everyone.
